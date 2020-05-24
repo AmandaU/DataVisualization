@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0DB79E8249679906D2CB3315 /* libPods-DataVisualizationUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7D7CDF1DE163179DA300D6FF /* libPods-DataVisualizationUITests.a */; };
 		4B6FC0647C380D5A36F45C8D /* libPods-DataVisualizationTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C312994286E0CCF92C589118 /* libPods-DataVisualizationTests.a */; };
+		AA01C1DE247AB9C5004D7E49 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AA01C1DD247AB9C5004D7E49 /* README.md */; };
 		AA0ACA0E247A6C8800B70870 /* GadgetModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0ACA0D247A6C8800B70870 /* GadgetModels.swift */; };
 		AA483EA6247A698300EF8B56 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA483EA5247A698300EF8B56 /* AppDelegate.swift */; };
 		AA483EA8247A698300EF8B56 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA483EA7247A698300EF8B56 /* SceneDelegate.swift */; };
@@ -49,6 +50,7 @@
 		38D9881F52B41EA366E36697 /* Pods-DataVisualization.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DataVisualization.debug.xcconfig"; path = "Target Support Files/Pods-DataVisualization/Pods-DataVisualization.debug.xcconfig"; sourceTree = "<group>"; };
 		7D7CDF1DE163179DA300D6FF /* libPods-DataVisualizationUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DataVisualizationUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A983D280C310836CDE2FCE82 /* Pods_DataVisualization.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DataVisualization.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA01C1DD247AB9C5004D7E49 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AA0ACA0D247A6C8800B70870 /* GadgetModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GadgetModels.swift; sourceTree = "<group>"; };
 		AA483EA2247A698300EF8B56 /* DataVisualization.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DataVisualization.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA483EA5247A698300EF8B56 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				AA483EAE247A698400EF8B56 /* Assets.xcassets */,
 				AA483EB0247A698400EF8B56 /* LaunchScreen.storyboard */,
 				AA483EB3247A698400EF8B56 /* Info.plist */,
+				AA01C1DD247AB9C5004D7E49 /* README.md */,
 			);
 			path = DataVisualization;
 			sourceTree = "<group>";
@@ -338,6 +341,7 @@
 			files = (
 				AA483EB2247A698400EF8B56 /* LaunchScreen.storyboard in Resources */,
 				AA483EAF247A698400EF8B56 /* Assets.xcassets in Resources */,
+				AA01C1DE247AB9C5004D7E49 /* README.md in Resources */,
 				AA865731247AA95200473888 /* Podfile in Resources */,
 				AA483EAD247A698300EF8B56 /* Main.storyboard in Resources */,
 			);
